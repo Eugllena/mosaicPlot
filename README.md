@@ -1,2 +1,2 @@
 # mosaicPlot
-R project of GSOC2006 by Yongfa Chen
+Tests for GSoC2006 R project by Yongfa Chen
